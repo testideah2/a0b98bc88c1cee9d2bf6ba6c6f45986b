@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.ritline.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. ritline.ru</name>
+    <name>ritline.ru</name>
 
     <description>
         Оптовый интернет магазин ритуальных принадлежностей
